@@ -8,4 +8,4 @@ st.title('Statistiques')
 tmp=np.array(st.session_state['data_bpf'].Ticks)
 pc_all=np.sum(tmp)/len(tmp)
 
-st.progress(pc_all, text='Nombres de BPF')
+st.progress(pc_all, text='Nombres de BPF'+str(np.sum(tmp))+'/'+str(len(tmp)))
