@@ -7,3 +7,5 @@ st.set_page_config(page_title="Ajouter un BPF",layout="wide", page_icon="📊")
 add_code = st.selectbox('Selectionner le BPF',st.session_state['data_bpf'])
 
 f_date=st.date_input('Date',value=st.session_state['d_date'], label_visibility="visible")
+
+st.write('You selected:', add_code)
