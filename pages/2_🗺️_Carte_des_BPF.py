@@ -12,7 +12,7 @@ index=st.session_state['data_bpf'].columns
 
 
 fig_map = px.scatter_mapbox(st.session_state['data_bpf'], lat=index[4], lon=index[3], hover_name=index[0], hover_data=[index[1], index[2]],
-                    color='Ticks', zoom=4,continuous_color_scale='viridis')
+                    color='Ticks', zoom=4,continuous_color_scale=px.colors.sequential.Viridis)
 
 
 fig_map.update_layout(mapbox_style="open-street-map")
