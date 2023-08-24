@@ -29,7 +29,7 @@ if 'data_bpf' not in st.session_state:
     st.session_state['data_bpf']=df
 
 def data_load(file):
-    data=pd.read_csv(file)
+    data=pd.read_csv(file,index_col=0)
     return data
 
 with st.sidebar:
