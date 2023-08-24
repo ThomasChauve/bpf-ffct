@@ -1,0 +1,10 @@
+streamlit
+pandas
+plotly
+tabulate
+nbconvert
+pandoc
+openpyxl
+gpxpy
+geopandas
+fiona
