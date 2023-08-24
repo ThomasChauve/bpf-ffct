@@ -14,8 +14,6 @@ st.set_page_config(
     page_icon="🚲",
 )
 
-
-
 st.title('Brevet des Provinces Francaise')
 
 st.warning("Une fois les modifications réalisées n'oublié pas de télécharger vos données mise à jour.", icon="⚠️")
@@ -40,5 +38,4 @@ with st.sidebar:
 
 uploaded_file=st.file_uploader('Charger fichier ".csv"',accept_multiple_files=False, type='csv', label_visibility="visible")
 if uploaded_file is not None:
-    for f in uploaded_file:
-        st.session_state['data_bpf']=data_load(f)
+    st.session_state['data_bpf']=data_load(uploaded_file)
