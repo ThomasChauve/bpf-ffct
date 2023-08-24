@@ -7,7 +7,7 @@ st.set_page_config(page_title="Recapitulatif des BPF", page_icon="📈")
 
 with st.sidebar:
     st.session_state['data_bpf'].to_csv('tmp_bpf.csv')
-    st.download_button('Télécharger les données .csv',data=Path('tmp'+str(k)+'.csv').read_text(),file_name='list_BPF.csv')
+    st.download_button('Télécharger les données .csv',data=Path('tmp_bpf.csv').read_text(),file_name='list_BPF.csv')
 
 st.title('Statistiques')
 tmp=np.array(st.session_state['data_bpf'].Ticks)
