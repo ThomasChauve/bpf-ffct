@@ -40,15 +40,15 @@
 40,Brouage,17 Charente-Maritime,Aunis-Saintonge,-1.077118,45.84866
 41,Fouras,17 Charente-Maritime,Aunis-Saintonge,-1.095236,45.98893000000001
 42,Talmont-sur-Gironde,17 Charente-Maritime,Aunis-Saintonge,-0.9083423000000002,45.5348
-43, Saint-Pierre-d'Oléron,17 Charente-Maritime,Aunis-Saintonge,-1.3072,45,9428
+43,Saint-Pierre-d'Oléron,17 Charente-Maritime,Aunis-Saintonge,-1.3072,45.9428
 43,Apchon,15 Cantal,Auvergne,2.69321,45.24762
 44,Murat,15 Cantal,Auvergne,2.86881,45.11202
 45,Saint-Mamet-la-Salvetat,15 Cantal,Auvergne,2.304697,44.85727
-46,Saint-Pierre-d'Oléron,15 Cantal,Auvergne,-1.306048,45.94373
 47,Saint-Urcize,15 Cantal,Auvergne,3.004907000000001,44.69772
 48,Salers,15 Cantal,Auvergne,2.495779,45.13876
 49,Thiézac,15 Cantal,Auvergne,2.664781,45.01467
 50,Aubusson-d'Auvergne,63 Puy-de-Dôme,Auvergne,3.574301335687855,45.75566094539194
+50,Besse en Chandesse,63 Puy-de-Dôme,Auvergne,2.93468,45.51237
 51,Col de Ceyssat,63 Puy-de-Dôme,Auvergne,2.957969,45.76379
 52,Les Ancizes-Comps,63 Puy-de-Dôme,Auvergne,2.808508,45.92484
 53,Orcival,63 Puy-de-Dôme,Auvergne,2.84195,45.68318
@@ -57,7 +57,6 @@
 56,Col d'Aubisque,64 Pyrénées-Atlantiques,Béarn,-0.3420012,42.97681
 57,Itxassou,64 Pyrénées-Atlantiques,Béarn,-1.401538,43.33215
 58,Morlanne,64 Pyrénées-Atlantiques,Béarn,-0.533893,43.51329
-59,Besse-en-Chandesse,64 Pyrénées-Atlantiques,Béarn,2.93468,45.51237
 60,Mouguerre,64 Pyrénées-Atlantiques,Béarn,-1.415872,43.46707
 61,Sauveterre-de-Béarn,64 Pyrénées-Atlantiques,Béarn,-0.9431812999999999,43.39979
 62,Apremont-sur-Allier,18 Cher,Berry,3.04766,46.90693999999999
@@ -143,8 +142,7 @@
 144,Ervy-le-Châtel,10 Aube,Champagne,3.911879,48.04052
 145,Montgueux,10 Aube,Champagne,3.958101,48.30548999999999
 146,Rumilly-lès-Vaudes,10 Aube,Champagne,4.218261,48.14563999999999
-147,Sommeval,10 Aube,Champagne,3.966233,48.16511999999999
-148,La Perrière,10 Aube,Champagne,3.90413,48.16652
+147,Chaource,10 Aube,Champagne,4.1374,48.0565
 149,Montmort-Lucy,51 Marne,Champagne,3.808662,48.92447
 150,Sézanne,51 Marne,Champagne,3.722831,48.72355
 151,Trois-Fontaines-l'Abbaye,51 Marne,Champagne,4.950228,48.71706
@@ -358,7 +356,7 @@
 361,Châlus,87 Haute-Vienne,Limousin,0.9787848999999998,45.65487
 362,Châteauponsac,87 Haute-Vienne,Limousin,1.273695,46.13419999999999
 363,Cieux,87 Haute-Vienne,Limousin,1.045537,45.99166
-364,La Jonchère-Saint-Maurice,87 Haute-Vienne,Limousin,1.468549,45.99889
+364,Saint-Léonard-de-Noblat,87 Haute-Vienne,Limousin,1.4862,45.8367
 365,Le Dorat,87 Haute-Vienne,Limousin,1.081748,46.21444
 366,Nexon,87 Haute-Vienne,Limousin,1.188872,45.67701000000001
 367,Longuyon,54 Meurthe-et-Moselle,Lorraine,5.599731,49.44982
@@ -490,8 +488,7 @@
 494,Angles-sur-l'Anglin,86 Vienne,Poitou,0.8842748,46.69553
 495,Charroux,86 Vienne,Poitou,0.404965,46.14174
 496,Gençay,86 Vienne,Poitou,0.4023677,46.37361000000001
-497,Lussac-les-Châteaux,86 Vienne,Poitou,0.7264318,46.4046
-498,Morthemer,86 Vienne,Poitou,0.6126842,46.47403
+498,Montmorillon,86 Vienne,Poitou,0.8680,46.4249
 499,Chauvigny,86 Vienne,Poitou,0.6473064,46.56845000000001
 500,Saint-Benoît,86 Vienne,Poitou,0.3424425,46.55002
 501,Annot,04 Alpes-de-Haute-Provence,Provence,6.667554,43.96585
