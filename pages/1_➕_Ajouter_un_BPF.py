@@ -17,7 +17,13 @@ f_date=st.date_input('Date',value=st.session_state['d_date'], label_visibility="
 
 id=list(st.session_state['data_bpf'].Ville).index(add_code)
 
+if st.button('Ajouter'):
 
+    st.session_state['data_bpf'].loc[id, 'Ticks'] = 1
+    st.session_state['data_bpf'].loc[id, 'Date'] = f_date
+
+    st.success(add_code+' est ajouté !', icon="✅")
+    
 # Add small map
 index=st.session_state['data_bpf'].columns
 
@@ -28,9 +34,4 @@ fig_map.update_layout(mapbox_style="open-street-map")
 
 st.plotly_chart(fig_map, use_container_width=True, sharing="streamlit")
 
-if st.button('Ajouter'):
 
-    st.session_state['data_bpf'].loc[id, 'Ticks'] = 1
-    st.session_state['data_bpf'].loc[id, 'Date'] = f_date
-
-    st.success(add_code+' est ajouté !', icon="✅")
