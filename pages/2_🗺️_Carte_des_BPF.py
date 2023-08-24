@@ -17,4 +17,6 @@ fig_map = px.scatter_mapbox(st.session_state['data_bpf'], lat=index[4], lon=inde
 
 fig_map.update_layout(mapbox_style="open-street-map")
 
+fig_map.update(layout_coloraxis_showscale=False)
+
 st.plotly_chart(fig_map, use_container_width=True, sharing="streamlit")
