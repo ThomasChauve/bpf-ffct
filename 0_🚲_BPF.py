@@ -14,9 +14,7 @@ st.set_page_config(
     page_icon="🚲",
 )
 
-with st.sidebar:
-    st.session_state['data_bpf'].to_csv('tmp_bpf.csv')
-    st.download_button('Télécharger les données .csv',data=Path('tmp'+str(k)+'.csv').read_text(),file_name='list_BPF.csv')
+
 
 st.title('Brevet des Provinces Francaise')
 
@@ -35,6 +33,10 @@ if 'data_bpf' not in st.session_state:
 def data_load(file):
     data=pd.read_csv(file)
     return data
+
+with st.sidebar:
+    st.session_state['data_bpf'].to_csv('tmp_bpf.csv')
+    st.download_button('Télécharger les données .csv',data=Path('tmp'+str(k)+'.csv').read_text(),file_name='list_BPF.csv')
 
 uploaded_file=st.file_uploader('Charger fichier ".csv"',accept_multiple_files=True, type='csv', label_visibility="visible")
 if uploaded_file is not None:
