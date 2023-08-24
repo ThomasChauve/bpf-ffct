@@ -11,7 +11,9 @@ with st.sidebar:
 
 st.title('Ajouter un BPF')
 
-add_code = st.selectbox('Selectionner le BPF',st.session_state['data_bpf'])
+tmp_code_df=st.session_state['data_bpf'][st.session_state['data_bpf'].Ticks==0]
+
+add_code = st.selectbox('Selectionner le BPF',tmp_code_df)
 
 f_date=st.date_input('Date',value=st.session_state['d_date'], label_visibility="visible")
 
@@ -23,7 +25,7 @@ if st.button('Ajouter'):
     st.session_state['data_bpf'].loc[id, 'Date'] = f_date
 
     st.success(add_code+' est ajouté !', icon="✅")
-    
+
 # Add small map
 index=st.session_state['data_bpf'].columns
 
