@@ -1,6 +1,7 @@
 import streamlit as st
 import numpy as np
 import plotly.express as px
+from pathlib import Path
 
 st.set_page_config(page_title="Cartes des BPF",layout="wide", page_icon="🗺️")
 
