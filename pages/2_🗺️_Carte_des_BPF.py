@@ -7,8 +7,12 @@ st.set_page_config(page_title="Cartes des BPF",layout="wide", page_icon="🗺️
 
 st.title('Carte des BPF')
 
-my_bpf=st.checkbox('Visité', value=True label_visibility="visible")
-not_my_bpf=st.checkbox('Non visité', value=True label_visibility="visible")
+my_bpf=st.checkbox('Visité', value=True, label_visibility="visible")
+not_my_bpf=st.checkbox('Non visité', value=True, label_visibility="visible")
+
+my_df= st.session_state['data_bpf'][st.session_state['data_bpf'].Ticks==1]
+not_my_df= st.session_state['data_bpf'][st.session_state['data_bpf'].Ticks==0]
+
 
 index=st.session_state['data_bpf'].columns
 
