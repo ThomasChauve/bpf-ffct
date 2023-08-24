@@ -14,7 +14,7 @@ id=list(st.session_state['data_bpf'].Ville).index(add_code)
 # Add small map
 index=st.session_state['data_bpf'].columns
 
-tmp_df=st.session_state['data_bpf'].loc[id]
+tmp_df= st.session_state['data_bpf'][st.session_state['data_bpf'].Ville==add_code]
 fig_map = px.scatter_mapbox(tmp_df, lat=index[4], lon=index[3], hover_name=index[0], hover_data=[index[1], index[2]],
                         color_discrete_sequence=["blue"], zoom=4)
 fig_map.update_layout(mapbox_style="open-street-map")
