@@ -5,6 +5,8 @@ import plotly.express as px
 st.set_page_config(page_title="Cartes des BPF",layout="wide", page_icon="🗺️")
 
 
+st.title('Carte des BPF')
+
 my_bpf=st.checkbox('Visité', value=True label_visibility="visible")
 not_my_bpf=st.checkbox('Non visité', value=True label_visibility="visible")
 
