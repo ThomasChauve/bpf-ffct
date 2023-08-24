@@ -843,18 +843,8 @@
 			</Placemark>
 			<Placemark>
 				<name>Autun</name>
-				<LookAt>
-					<longitude>4.300399651149047</longitude>
-					<latitude>46.95200804326128</latitude>
-					<altitude>0</altitude>
-					<heading>-0.0009635601914028519</heading>
-					<tilt>26.16305641501325</tilt>
-					<range>1432.484415864883</range>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
 				<styleUrl>#sn_pm_circle3140</styleUrl>
 				<Point>
-					<gx:drawOrder>1</gx:drawOrder>
 					<coordinates>4.301552855750299,46.95085731259416,0</coordinates>
 				</Point>
 			</Placemark>
@@ -1650,16 +1640,6 @@
 			<open>1</open>
 			<Placemark>
 				<name>Notre-Dame de La Salette</name>
-				<open>1</open>
-				<LookAt>
-					<longitude>5.978366630296536</longitude>
-					<latitude>44.85853845331724</latitude>
-					<altitude>0</altitude>
-					<heading>0.003024722797440311</heading>
-					<tilt>60.00440928044496</tilt>
-					<range>385.7983265502434</range>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
 				<styleUrl>#sn_pm_circle3140</styleUrl>
 				<Point>
 					<coordinates>5.978366630296536,44.85853845331724,0</coordinates>
@@ -1667,16 +1647,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Saint-Antoine-l&apos;Abbaye</name>
-				<open>1</open>
-				<Camera>
-					<longitude>5.221793480122419</longitude>
-					<latitude>45.17222384638649</latitude>
-					<altitude>1003.630557882386</altitude>
-					<heading>2.583135982608336</heading>
-					<tilt>12.74072998359539</tilt>
-					<roll>1.51295054941307</roll>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</Camera>
 				<styleUrl>#sn_pm_circle3140</styleUrl>
 				<Point>
 					<coordinates>5.217578585910307,45.17495786009783,0</coordinates>
@@ -3245,7 +3215,6 @@
 			</Placemark>
 			<Placemark>
 				<name>Saint-Just-en-Chevalet</name>
-				<description>J4</description>
 				<styleUrl>#sn_pm_circle3140</styleUrl>
 				<Point>
 					<coordinates>3.84614,45.91443,0</coordinates>
@@ -3253,18 +3222,8 @@
 			</Placemark>
 			<Placemark>
 				<name>Saint-Maurice Saint-Jean</name>
-				<LookAt>
-					<longitude>3.995952558993776</longitude>
-					<latitude>45.95775893288098</latitude>
-					<altitude>0</altitude>
-					<heading>0.0001590698389873834</heading>
-					<tilt>28.07574657054075</tilt>
-					<range>700.9527664255532</range>
-					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-				</LookAt>
 				<styleUrl>#sn_pm_circle3140</styleUrl>
 				<Point>
-					<gx:drawOrder>1</gx:drawOrder>
 					<coordinates>3.997310787483395,45.95682802058319,0</coordinates>
 				</Point>
 			</Placemark>

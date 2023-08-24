@@ -1,0 +1,546 @@
+,Ville,Departement,Province,Lat,Lon
+0,Château du Haut-Barr,67 Bas-Rhin,Alsace,7.338610999999999,48.725
+1,Saverne,67 Bas-Rhin,Alsace,7.362673,48.74134
+2,Château du Haut-Koenigsbourg,67 Bas-Rhin,Alsace,7.344092,48.2494
+3,Diebolsheim,67 Bas-Rhin,Alsace,7.662417,48.29048
+4,Mont Sainte-Odile,67 Bas-Rhin,Alsace,7.4,48.43333
+5,Obersteinbach,67 Bas-Rhin,Alsace,7.688299,49.0359
+6,Strasbourg,67 Bas-Rhin,Alsace,7.743749,48.58293
+7,Colmar,68 Haut-Rhin,Alsace,7.359971999999999,48.08068
+8,Ferrette,68 Haut-Rhin,Alsace,7.313848,47.49432
+9,Grand Ballon,68 Haut-Rhin,Alsace,7.098611,47.90111
+10,Lac Blanc,68 Haut-Rhin,Alsace,7.084593,48.13724
+11,Neuf Brisach,68 Haut-Rhin,Alsace,7.528897,48.01819
+12,Riquewihr,68 Haut-Rhin,Alsace,7.297283,48.16693
+13,Ballon d&apos;Alsace,90 Territoire de Belfort,Alsace,6.842972,47.82088
+14,Belfort,90 Territoire de Belfort,Alsace,6.862220999999999,47.63883
+15,Cravanche,90 Territoire de Belfort,Alsace,6.83332,47.65382
+16,Delle,90 Territoire de Belfort,Alsace,6.996556999999999,47.5062
+17,Réchesy,90 Territoire de Belfort,Alsace,7.113244,47.50756
+18,Rougemont-le-Château,90 Territoire de Belfort,Alsace,6.967237,47.73569
+19,Baugé,49 Maine-et-Loire,Anjou,-0.1045616,47.54192000000001
+20,Champtoceaux,49 Maine-et-Loire,Anjou,-1.26648,47.33715
+21,Durtal,49 Maine-et-Loire,Anjou,-0.2272648,47.67332
+22,Montreuil-Bellay,49 Maine-et-Loire,Anjou,-0.1531339,47.13289
+23,Saint-Florent-le-Vieil,49 Maine-et-Loire,Anjou,-1.019598,47.3625
+24,Saint-Mathurin-sur-Loire,49 Maine-et-Loire,Anjou,-0.3201926,47.40907
+25,Aire-sur-la-Lys,62 Pas-de-Calais,Artois,2.395588,50.63798999999999
+26,Auxy-le-Château,62 Pas-de-Calais,Artois,2.112503,50.22997000000001
+27,Caps Gris Nez et Blanc Nez,62 Pas-de-Calais,Artois,1.710652,50.92506999999999
+28,Montreuil-sur-Mer,62 Pas-de-Calais,Artois,1.76033,50.46288
+29,Mont-Saint-Eloi,62 Pas-de-Calais,Artois,2.69059,50.35046
+30,Neuville Saint-Vaast,62 Pas-de-Calais,Artois,2.760152,50.35521
+31,Vieil-Hesdin,62 Pas-de-Calais,Artois,2.098575,50.35652
+32,Aubeterre-sur-Dronne,16 Charente,Aunis-Saintonge,0.1714516,45.27045
+33,Chassenon,16 Charente,Aunis-Saintonge,0.7654913,45.85140000000001
+34,La Rochefoucauld,16 Charente,Aunis-Saintonge,0.3865463000000001,45.74026
+35,Rouillac,16 Charente,Aunis-Saintonge,-0.0622629,45.77488
+36,Saint-Germain-de-Confolens,16 Charente,Aunis-Saintonge,0.6841482,46.05394
+37,Villebois-Lavalette,16 Charente,Aunis-Saintonge,0.28192,45.4828
+38,Ars-en-Ré,17 Charente-Maritime,Aunis-Saintonge,-1.516015,46.20781000000001
+39,Aulnay-de-Saintonge,17 Charente-Maritime,Aunis-Saintonge,-0.3468924,46.02094
+40,Brouage,17 Charente-Maritime,Aunis-Saintonge,-1.077118,45.84866
+41,Fouras,17 Charente-Maritime,Aunis-Saintonge,-1.095236,45.98893000000001
+42,Talmont-sur-Gironde,17 Charente-Maritime,Aunis-Saintonge,-0.9083423000000002,45.5348
+43,Apchon,15 Cantal,Auvergne,2.69321,45.24762
+44,Murat,15 Cantal,Auvergne,2.86881,45.11202
+45,Saint-Mamet-la-Salvetat,15 Cantal,Auvergne,2.304697,44.85727
+46,Saint-Pierre-d&apos;Oléron,15 Cantal,Auvergne,-1.306048,45.94373
+47,Saint-Urcize,15 Cantal,Auvergne,3.004907000000001,44.69772
+48,Salers,15 Cantal,Auvergne,2.495779,45.13876
+49,Thiézac,15 Cantal,Auvergne,2.664781,45.01467
+50,Aubusson-d&apos;Auvergne,63 Puy-de-Dôme,Auvergne,3.574301335687855,45.75566094539194
+51,Col de Ceyssat,63 Puy-de-Dôme,Auvergne,2.957969,45.76379
+52,Les Ancizes-Comps,63 Puy-de-Dôme,Auvergne,2.808508,45.92484
+53,Orcival,63 Puy-de-Dôme,Auvergne,2.84195,45.68318
+54,Tournoël,63 Puy-de-Dôme,Auvergne,3.038627,45.88484
+55,Ascain,64 Pyrénées-Atlantiques,Béarn,-1.621061,43.34482
+56,Col d&apos;Aubisque,64 Pyrénées-Atlantiques,Béarn,-0.3420012,42.97681
+57,Itxassou,64 Pyrénées-Atlantiques,Béarn,-1.401538,43.33215
+58,Morlanne,64 Pyrénées-Atlantiques,Béarn,-0.533893,43.51329
+59,Besse-en-Chandesse,64 Pyrénées-Atlantiques,Béarn,2.93468,45.51237
+60,Mouguerre,64 Pyrénées-Atlantiques,Béarn,-1.415872,43.46707
+61,Sauveterre-de-Béarn,64 Pyrénées-Atlantiques,Béarn,-0.9431812999999999,43.39979
+62,Apremont-sur-Allier,18 Cher,Berry,3.04766,46.90693999999999
+63,Le Guétin,18 Cher,Berry,3.070844,46.94844
+64,Châteaumeillant,18 Cher,Berry,2.202046,46.56191999999999
+65,Culan,18 Cher,Berry,2.351777,46.54688999999999
+66,Mehun-sur-Yèvre,18 Cher,Berry,2.215264,47.14429
+67,Meillant,18 Cher,Berry,2.504979,46.78054999999999
+68,Sancerre,18 Cher,Berry,2.836868,47.33006
+69,Ciron,36 Indre,Berry,1.245041,46.6272
+70,Nohant-Vic,36 Indre,Berry,1.974904,46.62545
+71,Palluau-sur-Indre,36 Indre,Berry,1.312741,46.94394
+72,Saint-Benoït-du-Sault,36 Indre,Berry,1.389854,46.43999
+73,Sainte-Sévère-sur-Indre,36 Indre,Berry,2.069247,46.48695
+74,Valençay,36 Indre,Berry,1.569839,47.16167
+75,Bourbon-l&apos;Archambault,03 Allier,Bourbonnais,3.057791,46.58175
+76,Châtel-Montagne,03 Allier,Bourbonnais,3.682965344294082,46.11359293037235
+77,Hérisson,03 Allier,Bourbonnais,2.711444,46.50942000000001
+78,Huriel,03 Allier,Bourbonnais,2.475596,46.37547000000001
+79,Saint-Bonnet-Tronçais,03 Allier,Bourbonnais,2.694414,46.65993999999999
+80,Saint-Pourçain-sur-Besbre,03 Allier,Bourbonnais,3.638231,46.47479
+81,Bénonces,01 Ain,Bourgogne,5.478338,45.82782
+82,Col de la Faucille,01 Ain,Bourgogne,6.018652,46.3696
+83,Hauteville-Lompnes,01 Ain,Bourgogne,5.602546,45.97661
+84,Izernore,01 Ain,Bourgogne,5.554825,46.21978
+85,Neuville-sur-Ain,01 Ain,Bourgogne,5.371304,46.0815
+86,Pérouges,01 Ain,Bourgogne,5.178123,45.90353000000001
+87,Alise-Sainte-Reine,21 Côte-d&apos;Or,Bourgogne,4.487851,47.53751
+88,Beaune,21 Côte-d&apos;Or,Bourgogne,4.83827,47.02398
+89,Châteauneuf-en-Auxois,21 Côte-d&apos;Or,Bourgogne,4.640223,47.2187
+90,Châtillon-sur-Seine,21 Côte-d&apos;Or,Bourgogne,4.572845,47.8576
+91,La Rochepot,21 Côte-d&apos;Or,Bourgogne,4.675278,46.95524
+92,Saint-Seine-l&apos;Abbaye,21 Côte-d&apos;Or,Bourgogne,4.788826,47.44024
+93,Berzé-le-Châtel,71 Saône-et-Loire,Bourgogne,4.689419,46.38792000000001
+94,Brancion,71 Saône-et-Loire,Bourgogne,4.79663,46.54759
+95,Mont-Saint-Vincent,71 Saône-et-Loire,Bourgogne,4.476742,46.62965
+96,Saint-Gengoux-le-National,71 Saône-et-Loire,Bourgogne,4.662895,46.6149
+97,Solutre-Pouilly,71 Saône-et-Loire,Bourgogne,4.724507,46.29655
+98,Autun,71 Saône-et-Loire,Bourgogne,4.301552855750299,46.95085731259416
+99,Ancy-le-Franc,89 Yonne,Bourgogne,4.164162,47.77659
+100,Arcy-sur-Cure,89 Yonne,Bourgogne,3.758239,47.60291
+101,Montréal-sur-Serein,89 Yonne,Bourgogne,4.036076069775641,47.54337708388802
+102,Noyers-sur-Serein,89 Yonne,Bourgogne,3.995766,47.69517
+103,Vallery,89 Yonne,Bourgogne,3.050469197689198,48.2406283962566
+104,Vézelay,89 Yonne,Bourgogne,3.741621,47.46343
+105,Moncontour,22 Côtes-d&apos;Armor,Bretagne,-2.63263,48.36106
+106,Mur-de-Bretagne,22 Côtes-d&apos;Armor,Bretagne,-2.986383,48.20109
+107,Quintin,22 Côtes-d&apos;Armor,Bretagne,-2.910095,48.40331000000001
+108,Ploumanac&apos;h,22 Côtes-d&apos;Armor,Bretagne,-3.485556,48.83111000000001
+109,Saint-Cast-le-Guildo,22 Côtes-d&apos;Armor,Bretagne,-2.256588,48.63160999999999
+110,Tréguier,22 Côtes-d&apos;Armor,Bretagne,-3.224447,48.78776000000001
+111,Camaret-sur-Mer,29 Finistère,Bretagne,-4.595168,48.27616
+112,Concarneau,29 Finistère,Bretagne,-3.921558,47.87237
+113,Huelgoat,29 Finistère,Bretagne,-3.746753,48.36369
+114,Le Conquet,29 Finistère,Bretagne,-4.773158,48.35889
+115,Pointe-du-Raz,29 Finistère,Bretagne,-4.670977,48.04086
+116,Saint-Thégonnec,29 Finistère,Bretagne,-3.946791000000001,48.51991999999999
+117,Cancale,35 Ille-et-Vilaine,Bretagne,-1.849742,48.67492
+118,Combourg,35 Ille-et-Vilaine,Bretagne,-1.748918,48.41103
+119,Fougères,35 Ille-et-Vilaine,Bretagne,-1.202849,48.3524
+120,Grand-Fougeray,35 Ille-et-Vilaine,Bretagne,-1.732762,47.72334
+121,Paimpont,35 Ille-et-Vilaine,Bretagne,-2.171517,48.02137
+122,Vitré,35 Ille-et-Vilaine,Bretagne,-1.212547,48.12309999999999
+123,Batz-sur-Mer,44 Loire-Atlantique,Bretagne,-2.479888,47.27764
+124,Châteaubriant,44 Loire-Atlantique,Bretagne,-1.378379,47.71893
+125,Clisson,44 Loire-Atlantique,Bretagne,-1.277866,47.08860000000001
+126,Guérande,44 Loire-Atlantique,Bretagne,-2.429417,47.32782
+127,Pornic,44 Loire-Atlantique,Bretagne,-2.102379,47.11585
+128,Saint-Philbert-de-Grand-Lieu,44 Loire-Atlantique,Bretagne,-1.640814,47.03887
+129,Belle Ile,56 Morbihan,Bretagne,-3.181043,47.33642
+130,Sainte-Anne-d&apos;Auray,56 Morbihan,Bretagne,-2.953206,47.70374
+131,Carnac,56 Morbihan,Bretagne,-3.079234000000001,47.58334
+132,Josselin,56 Morbihan,Bretagne,-2.546639,47.95394
+133,Le Faouët,56 Morbihan,Bretagne,-3.490108,48.03183
+134,Quiberon,56 Morbihan,Bretagne,-3.119043000000001,47.48375999999999
+135,Rochefort-en-Terre,56 Morbihan,Bretagne,-2.337274,47.69913
+136,Carignan,08 Ardennes,Champagne,5.167745,49.63159
+137,Fumay,08 Ardennes,Champagne,4.706954,49.99357
+138,Grandpré,08 Ardennes,Champagne,4.86996,49.34019
+139,Les Hautes-Rivières,08 Ardennes,Champagne,4.841689,49.88343
+140,Monthermé,08 Ardennes,Champagne,4.730783,49.88497
+141,Signy-l&apos;abbaye,08 Ardennes,Champagne,4.421177,49.69769
+142,Brienne-le-Château,10 Aube,Champagne,4.525859,48.39415
+143,Clairvaux-sur-Aube,10 Aube,Champagne,4.792422,48.12026999999999
+144,Ervy-le-Châtel,10 Aube,Champagne,3.911879,48.04052
+145,Montgueux,10 Aube,Champagne,3.958101,48.30548999999999
+146,Rumilly-lès-Vaudes,10 Aube,Champagne,4.218261,48.14563999999999
+147,Sommeval,10 Aube,Champagne,3.966233,48.16511999999999
+148,La Perrière,10 Aube,Champagne,3.90413,48.16652
+149,Montmort-Lucy,51 Marne,Champagne,3.808662,48.92447
+150,Sézanne,51 Marne,Champagne,3.722831,48.72355
+151,Trois-Fontaines-l&apos;Abbaye,51 Marne,Champagne,4.950228,48.71706
+152,Valmy,51 Marne,Champagne,4.772964,49.08398
+153,Vertus,51 Marne,Champagne,4.001152,48.90292999999999
+154,Verzy,51 Marne,Champagne,4.16286,49.14616
+155,Auberive,52 Haute-Marne,Champagne,5.06109,47.78672999999999
+156,Bourbonne-les-Bains,52 Haute-Marne,Champagne,5.747647,47.95351
+157,Joinville,52 Haute-Marne,Champagne,5.140349,48.44248
+158,Langres,52 Haute-Marne,Champagne,5.33411,47.86298000000001
+159,Montier-en-Der,52 Haute-Marne,Champagne,4.768934,48.48009
+160,Vignory,52 Haute-Marne,Champagne,5.105299,48.27676
+161,Brantes,84 Vaucluse,Comtat Venaissin,5.334435,44.19331
+162,Gordes,84 Vaucluse,Comtat Venaissin,5.201092,43.91121
+163,Mont Ventoux,84 Vaucluse,Comtat Venaissin,5.283333,44.16667
+164,Pernes-les-Fontaines,84 Vaucluse,Comtat Venaissin,5.059053,43.99736
+165,Roussillon,84 Vaucluse,Comtat Venaissin,5.293501,43.90255
+166,Vaison-la-Romaine,84 Vaucluse,Comtat Venaissin,5.073957,44.24103
+167,Aulus-les-Bains,09 Ariège,Comté de Foix,1.337057,42.79106
+168,Foix,09 Ariège,Comté de Foix,1.607081,42.96398
+169,Le Mas d&apos;Azil,09 Ariège,Comté de Foix,1.361315,43.07962
+170,Lordat,09 Ariège,Comté de Foix,1.75136,42.77586
+171,Mirepoix,09 Ariège,Comté de Foix,1.875998,43.08634
+172,Montségur,09 Ariège,Comté de Foix,1.83418,42.87119
+173,Gréolières,06 Alpes-Maritimes,Comté de Nice,6.942929000000001,43.79552
+174,La Brigue,06 Alpes-Maritimes,Comté de Nice,7.61518,44.06371
+175,La Turbie,06 Alpes-Maritimes,Comté de Nice,7.400836,43.74485
+176,Peïra-Cava,06 Alpes-Maritimes,Comté de Nice,7.362613999999999,43.9336
+177,Saint-Etienne-de-Tinée,06 Alpes-Maritimes,Comté de Nice,6.924391999999999,44.25431
+178,Saint-Martin-Vésubie,06 Alpes-Maritimes,Comté de Nice,7.25649,44.06989
+179,Bonifacio,20 Corse,Corse,9.156264,41.38744
+180,Corte,20 Corse,Corse,9.149441,42.30984
+181,Nonza,20 Corse,Corse,9.344794,42.78495
+182,Piana,20 Corse,Corse,8.636379,42.23826
+183,Piedicroce,20 Corse,Corse,9.367983,42.37479
+184,Zonza,20 Corse,Corse,9.17075,41.74938
+185,Abbaye de Boscodon,05 Hautes-Alpes,Dauphiné,6.455589,44.50041
+186,Col d&apos;Izoard,05 Hautes-Alpes,Dauphiné,6.735093,44.81995
+187,Col du Lautaret,05 Hautes-Alpes,Dauphiné,6.405098999999999,45.03467000000001
+188,Le Gioberney,05 Hautes-Alpes,Dauphiné,6.281502613996743,44.84058557623499
+189,Saint-Etienne-en-Dévoluy,05 Hautes-Alpes,Dauphiné,5.941374999999999,44.69332
+190,Saint-Véran,05 Hautes-Alpes,Dauphiné,6.866088000000001,44.69982
+191,Bathernay,26 Drôme,Dauphiné,4.995703,45.18047
+192,Col de la Machine,26 Drôme,Dauphiné,5.334162,44.97569
+193,Col du Rousset,26 Drôme,Dauphiné,5.06111,44.45465
+194,Grignan,26 Drôme,Dauphiné,4.908028,44.42001
+195,La Motte Chalançon,26 Drôme,Dauphiné,5.380777,44.48523
+196,Montbrun-les-Bains,26 Drôme,Dauphiné,5.443654,44.1754
+197,Notre-Dame de La Salette,38 Isère,Dauphiné,5.978366630296536,44.85853845331724
+198,Saint-Antoine-l&apos;Abbaye,38 Isère,Dauphiné,5.217578585910307,45.17495786009783
+199,Crémieu,38 Isère,Dauphiné,5.250766,45.72420000000001
+200,La Bérarde,38 Isère,Dauphiné,6.291205,44.93361
+201,Laffrey,38 Isère,Dauphiné,5.773180999999999,45.02415
+202,Couvent de la Grande Chartreuse,38 Isère,Dauphiné,5.791587102086075,45.36133930144098
+203,Bavay,59 Nord,Flandres,3.791744,50.29715
+204,Bergues,59 Nord,Flandres,2.432584,50.96856
+205,Douai,59 Nord,Flandres,3.082494,50.36753999999999
+206,Mont des Cats,59 Nord,Flandres,2.668715,50.78179
+207,Saint-Amand-les-Eaux,59 Nord,Flandres,3.427690999999999,50.44801999999999
+208,Trélon,59 Nord,Flandres,4.103549,50.05901
+209,Les Hôpitaux Neufs,25 Doubs,Franche-Comté,6.373419,46.77721
+210,Montbenoît,25 Doubs,Franche-Comté,6.461588,46.99273
+211,Nans-sous-Sainte-Anne,25 Doubs,Franche-Comté,6.000158,46.97769
+212,Ouhans,25 Doubs,Franche-Comté,6.293659000000001,46.9986
+213,Saint-Point-du-Lac,25 Doubs,Franche-Comté,6.322856,46.82189999999999
+214,Saut du Doubs,25 Doubs,Franche-Comté,6.712866,47.08736
+215,Baume-les-Messieurs,39 Jura,Franche-Comté,5.648177,46.70607
+216,Château-des-Prés,39 Jura,Franche-Comté,5.898275999999999,46.50003
+217,Les Bouchoux,39 Jura,Franche-Comté,5.817269999999999,46.29711
+218,Nozeroy,39 Jura,Franche-Comté,6.038644000000001,46.77558
+219,Orgelet,39 Jura,Franche-Comté,5.611188,46.52167
+220,Salins-les-Bains,39 Jura,Franche-Comté,5.879909999999999,46.9432
+221,Blondefontaine,70 Haute-Saône,Franche-Comté,5.86697,47.87835000000001
+222,Luxeuil-les-Bains,70 Haute-Saône,Franche-Comté,6.380136,47.81784
+223,Montigny-lès-Cherlieu,70 Haute-Saône,Franche-Comté,5.811587,47.79932
+224,Pesmes,70 Haute-Saône,Franche-Comté,5.566097,47.27975
+225,Servance,70 Haute-Saône,Franche-Comté,6.68555,47.81742
+226,Vesoul,70 Haute-Saône,Franche-Comté,6.155904,47.62347
+227,Bassoues,32 Gers,Gascogne,0.2479943,43.57906
+228,Cazaubon,32 Gers,Gascogne,-0.0703168,43.93443
+229,Gimont,32 Gers,Gascogne,0.8770041,43.62754
+230,Larressingle,32 Gers,Gascogne,0.3103824,43.94415
+231,Lectoure,32 Gers,Gascogne,0.6198052,43.934
+232,Simorre,32 Gers,Gascogne,0.7361266,43.4506
+233,Hagetmau,40 Landes,Gascogne,-0.591268,43.65874
+234,Hossegor,40 Landes,Gascogne,-1.395201,43.66334
+235,Labastide d&apos;Armagnac,40 Landes,Gascogne,-0.1867944,43.96973
+236,Mimizan,40 Landes,Gascogne,-1.229082,44.20263
+237,Sabres,40 Landes,Gascogne,-0.7402672,44.1484
+238,Sorde l&apos;Abbaye,40 Landes,Gascogne,-1.056145,43.5299
+239,Mauvezin,65 Hautes-Pyrénées,Gascogne,0.877117751881995,43.73049408800322
+240,Col du Tourmalet,65 Hautes-Pyrénées,Gascogne,0.1448994,42.9082
+241,Gavarnie,65 Hautes-Pyrénées,Gascogne,-0.0101497,42.73507
+242,Lac d&apos;Orédon,65 Hautes-Pyrénées,Gascogne,0.1617882,42.82528
+243,Saint-Sever-de-Rustan,65 Hautes-Pyrénées,Gascogne,0.2250309349221991,43.35162518936613
+244,Pont d&apos;Espagne,65 Hautes-Pyrénées,Gascogne,-0.1398927,42.85123
+245,Auvillar,82 Tarn-et-Garonne,Gascogne,0.8996709,44.06949
+246,Caylus,82 Tarn-et-Garonne,Gascogne,1.773166,44.23681
+247,Lauzerte,82 Tarn-et-Garonne,Gascogne,1.139225,44.25526
+248,Moissac,82 Tarn-et-Garonne,Gascogne,1.084942,44.10402
+249,Monpezat-de-Quercy,82 Tarn-et-Garonne,Gascogne,1.479058,44.23656
+250,Saint-Antoinin-Noble-Val,82 Tarn-et-Garonne,Gascogne,1.753289,44.1524
+251,Bozouls,12 Aveyron,Guyenne,2.722757420995869,44.471712109003
+252,Conques,12 Aveyron,Guyenne,2.397208,44.5995
+253,Le Maubert,12 Aveyron,Guyenne,3.198328,44.14706
+254,Melvieu,12 Aveyron,Guyenne,2.791819,44.04651
+255,Najac,12 Aveyron,Guyenne,1.97874,44.21982
+256,Roquefort,12 Aveyron,Guyenne,2.990375,43.97577
+257,Brantôme,24 Dordogne,Guyenne,0.6471479,45.36429
+258,Domme,24 Dordogne,Guyenne,1.214633,44.80292
+259,Hautefort,24 Dordogne,Guyenne,1.14866,45.25918
+260,Les Eyzies-de-Tayac,24 Dordogne,Guyenne,1.015952,44.93455
+261,Monbazillac,24 Dordogne,Guyenne,0.4914062,44.79384
+262,Monpazier,24 Dordogne,Guyenne,0.8943222000000001,44.68257
+263,Bazas,33 Gironde,Guyenne,-0.213442,44.43149
+264,Blaye,33 Gironde,Guyenne,-0.661439,45.12907
+265,Le Pyla-sur-Mer,33 Gironde,Guyenne,-1.201736,44.63432
+266,Sainte-Croix-du-Mont,33 Gironde,Guyenne,-0.2812328,44.59341
+267,Cadillac,33 Gironde,Guyenne,-0.321461,44.63689
+268,Saint-Emilion,33 Gironde,Guyenne,-0.1554754,44.89601
+269,Vertheuil,33 Gironde,Guyenne,-0.8345531,45.25021
+270,Figeac,46 Lot,Guyenne,2.037963,44.60799
+271,Luzech,46 Lot,Guyenne,1.286851,44.47829
+272,Martel,46 Lot,Guyenne,1.609837,44.93707
+273,Padirac,46 Lot,Guyenne,1.753123,44.84166
+274,Rocamadour,46 Lot,Guyenne,1.618353,44.79952
+275,Saint-Cirq-Lapopie,46 Lot,Guyenne,1.670467,44.46462
+276,Duras,47 Lot-et-Garonne,Guyenne,0.1820709,44.67646
+277,Monclar,47 Lot-et-Garonne,Guyenne,0.5264483,44.44661
+278,Nérac,47 Lot-et-Garonne,Guyenne,0.3450835,44.13432
+279,Penne d&apos;Agenais,47 Lot-et-Garonne,Guyenne,0.8204692,44.39021
+280,Saint-Maurin,47 Lot-et-Garonne,Guyenne,0.8919942999999999,44.20797
+281,Villeréal,47 Lot-et-Garonne,Guyenne,0.7438315,44.63731
+282,Coucy-le-Château,02 Aisne,Ile-de-France,3.32411,49.51933
+283,Fère-en-Tardenois,02 Aisne,Ile-de-France,3.51384,49.20003
+284,Guise,02 Aisne,Ile-de-France,3.628017,49.89973
+285,La Ferté-Milon,02 Aisne,Ile-de-France,3.125447,49.17739
+286,Laon,02 Aisne,Ile-de-France,3.624245,49.56475
+287,Longpont,02 Aisne,Ile-de-France,3.219766,49.27320999999999
+288,Chaumont-en-Vexin,60 Oise,Ile-de-France,1.882695,49.26485
+289,Ermenonville,60 Oise,Ile-de-France,2.693657,49.12559
+290,Noyon,60 Oise,Ile-de-France,3.003258,49.58241
+291,Pierrefonds,60 Oise,Ile-de-France,2.977925,49.34940999999999
+292,Saint-Germer-de-Fly,60 Oise,Ile-de-France,1.781705,49.44358
+293,Songeons,60 Oise,Ile-de-France,1.853532,49.54921
+294,Blandy-les-Tours,77 Seine-et-Marne,Ile-de-France,2.78149,48.56649999999999
+295,Château-Landon,77 Seine-et-Marne,Ile-de-France,2.702204,48.1491
+296,Donnemarie-Dontilly,77 Seine-et-Marne,Ile-de-France,3.132513,48.47674
+297,Jouarre,77 Seine-et-Marne,Ile-de-France,3.130447,48.92725
+298,Moret-sur-Loing,77 Seine-et-Marne,Ile-de-France,2.818388,48.37275
+299,Provins,77 Seine-et-Marne,Ile-de-France,3.286947,48.56287
+300,Dampierre-en-Yvelines,78 Yvelines,Ile-de-France,1.986191,48.70533999999999
+301,Montfort-l&apos;Amaury,78 Yvelines,Ile-de-France,1.807609,48.77669
+302,Milly-la-Forêt,91 Essonne,Ile-de-France,2.4704,48.40318
+303,Saint-Sulpice-de-Favières,91 Essonne,Ile-de-France,2.179246,48.5414
+304,L&apos;Isle-Adam,95 Val-d&apos;Oise,Ile-de-France,2.217277,49.11214
+305,Vétheuil,95 Val-d&apos;Oise,Ile-de-France,1.700613,49.06486
+306,Gerbier de Jonc,07 Ardèche,Languedoc,4.222021,44.84187
+307,Lac-d&apos;Issarlès,07 Ardèche,Languedoc,4.061058,44.82108
+308,Les Vans,07 Ardèche,Languedoc,4.132926,44.40404
+309,Loubaresse,07 Ardèche,Languedoc,4.050103,44.60021
+310,Saint-Agrève,07 Ardèche,Languedoc,4.39682,45.00951999999999
+311,Vallon-Pont-d&apos;Arc,07 Ardèche,Languedoc,4.394846,44.40696
+312,Duilhac-sous-Peyrepertuse,11 Aude,Languedoc,2.566179,42.86335
+313,La Fajolle,11 Aude,Languedoc,1.963981,42.77171
+314,Lagrasse,11 Aude,Languedoc,2.619735,43.09047
+315,Lastours,11 Aude,Languedoc,2.380394,43.33176
+316,Saint-Hilaire,11 Aude,Languedoc,2.308892,43.09345
+317,Saissac,11 Aude,Languedoc,2.172674,43.35952
+318,Anduze,30 Gard,Languedoc,3.985142,44.05507
+319,Blandas,30 Gard,Languedoc,3.512595,43.91184
+320,Navacelles,30 Gard,Languedoc,3.511622,43.89429
+321,Mont Aigoual,30 Gard,Languedoc,3.575,44.12278
+322,Pont du Gard,30 Gard,Languedoc,4.536058,43.94683
+323,Sommières,30 Gard,Languedoc,4.089447,43.78355
+324,Uzès,30 Gard,Languedoc,4.418989,44.0107
+325,Aurignac,31 Haute-Garonne,Languedoc,0.8817533000000001,43.21714
+326,Cintegabelle,31 Haute-Garonne,Languedoc,1.531711,43.31276
+327,Lévignac,31 Haute-Garonne,Languedoc,1.193486,43.66591
+328,L&apos;Isle-en-Dodon,31 Haute-Garonne,Languedoc,0.8351408999999999,43.38607
+329,Saint-Bertrand-de-Comminges,31 Haute-Garonne,Languedoc,0.5736991,43.02753
+330,Superbagnères,31 Haute-Garonne,Languedoc,0.5770512,42.76791
+331,Fraisse-sur-Agout,34 Hérault,Languedoc,2.79794,43.6059
+332,Le Caylar,34 Hérault,Languedoc,3.319643999999999,43.86353
+333,Minerve,34 Hérault,Languedoc,2.746427,43.35445
+334,Mourèze,34 Hérault,Languedoc,3.356143,43.61852
+335,Saint-Guilhem-le-Désert,34 Hérault,Languedoc,3.548219,43.73363
+336,Sète,34 Hérault,Languedoc,3.696605,43.4017
+337,La Chaise-Dieu,43 Haute-Loire,Languedoc,3.697948,45.32142
+338,Lac du Bouchet,43 Haute-Loire,Languedoc,3.790504,44.90811
+339,Lavaudieu,43 Haute-Loire,Languedoc,3.454048,45.26341000000001
+340,Monistrol-d&apos;Allier,43 Haute-Loire,Languedoc,3.641737,44.96836
+341,Saint-Front,43 Haute-Loire,Languedoc,4.142779,44.97723
+342,Tence,43 Haute-Loire,Languedoc,4.290467,45.11458
+343,Aven Armand,48 Lozère,Languedoc,3.357222,44.22111
+344,Barre-des-Cévennes,48 Lozère,Languedoc,3.65509,44.24408
+345,Châteauneuf-de-Randon,48 Lozère,Languedoc,3.675208,44.64046
+346,Fournels,48 Lozère,Languedoc,3.11884,44.81668
+347,Le Pont-de-Montvert,48 Lozère,Languedoc,3.743621,44.3633
+348,Les Vignes,48 Lozère,Languedoc,3.229161,44.27905
+349,Ambialet,81 Tarn,Languedoc,2.377899,43.94477
+350,Cordes-sur-Ciel,81 Tarn,Languedoc,1.958202,44.06253
+351,Lacaune,81 Tarn,Languedoc,2.69174,43.70721
+352,Lacrouzette,81 Tarn,Languedoc,2.349178,43.66339
+353,Pampelonne,81 Tarn,Languedoc,2.246201,44.12505
+354,Puylaurens,81 Tarn,Languedoc,2.013837,43.57184
+355,Argentat,19 Corrèze,Limousin,1.938441,45.09288
+356,Bort-les-Orgues,19 Corrèze,Limousin,2.495622,45.40043
+357,Collonges-la-Rouge,19 Corrèze,Limousin,1.655261,45.06201999999999
+358,Meymac,19 Corrèze,Limousin,2.146825,45.53503
+359,Treignac,19 Corrèze,Limousin,1.794466,45.53744
+360,Voutezac,19 Corrèze,Limousin,1.438204,45.29273000000001
+361,Châlus,87 Haute-Vienne,Limousin,0.9787848999999998,45.65487
+362,Châteauponsac,87 Haute-Vienne,Limousin,1.273695,46.13419999999999
+363,Cieux,87 Haute-Vienne,Limousin,1.045537,45.99166
+364,La Jonchère-Saint-Maurice,87 Haute-Vienne,Limousin,1.468549,45.99889
+365,Le Dorat,87 Haute-Vienne,Limousin,1.081748,46.21444
+366,Nexon,87 Haute-Vienne,Limousin,1.188872,45.67701000000001
+367,Longuyon,54 Meurthe-et-Moselle,Lorraine,5.599731,49.44982
+368,Mousson,54 Meurthe-et-Moselle,Lorraine,6.079878,48.90635
+369,Nancy,54 Meurthe-et-Moselle,Lorraine,6.182504,48.69079
+370,Pierre-Percée,54 Meurthe-et-Moselle,Lorraine,6.932319,48.46889999999999
+371,Toul,54 Meurthe-et-Moselle,Lorraine,5.895101,48.68346
+372,Vaudémont,54 Meurthe-et-Moselle,Lorraine,6.056118,48.41779
+373,Saxon Sion,54 Meurthe-et-Moselle,Lorraine,6.084042,48.43012
+374,Avioth,55 Meuse,Lorraine,5.391386,49.5666
+375,Douaumont,55 Meuse,Lorraine,5.433902,49.21889
+376,Hattonchâtel,55 Meuse,Lorraine,5.702575,48.99212
+377,Montfaucon d&apos;Argonne,55 Meuse,Lorraine,5.133152,49.27175
+378,Montsec,55 Meuse,Lorraine,5.719878,48.8909
+379,Saint-Mihiel,55 Meuse,Lorraine,5.541263,48.89226
+380,Dabo,57 Moselle,Lorraine,7.235969999999999,48.6538
+381,Lutzelbourg,57 Moselle,Lorraine,7.25029,48.73562
+382,Marsal,57 Moselle,Lorraine,6.60924,48.78804
+383,Metz,57 Moselle,Lorraine,6.172696,49.11613
+384,Philippsbourg,57 Moselle,Lorraine,7.567527,48.98398
+385,Thionville,57 Moselle,Lorraine,6.168567,49.35714
+386,Bruyères,88 Vosges,Lorraine,6.719713999999999,48.21066999999999
+387,Col de la Schlucht,88 Vosges,Lorraine,7.02284,48.06387
+388,Domrémy-la-Pucelle,88 Vosges,Lorraine,5.675222,48.44292
+389,Eloyes,88 Vosges,Lorraine,6.610422,48.09284
+390,Gérardmer,88 Vosges,Lorraine,6.870955,48.06916
+391,Le Val-d&apos;Ajol,88 Vosges,Lorraine,6.483828999999999,47.92588
+392,Chalmazel,42 Loire,Lyonnais,3.850538,45.70380999999999
+393,Chambles,42 Loire,Lyonnais,4.240153,45.44238000000001
+394,Col du Grand Bois ou de la République,42 Loire,Lyonnais,4.458582,45.36011999999999
+395,Saint-Bonnet-le-Château,42 Loire,Lyonnais,4.066372,45.42511
+396,Saint-Just-en-Chevalet,42 Loire,Lyonnais,3.84614,45.91443
+397,Saint-Maurice Saint-Jean,42 Loire,Lyonnais,3.997310787483395,45.95682802058319
+398,Beaujeu,69 Rhône,Lyonnais,4.586885,46.15506
+399,Col des Sauvages,69 Rhône,Lyonnais,4.378402,45.92762
+400,Montrottier,69 Rhône,Lyonnais,4.466492,45.79001
+401,Oingt,69 Rhône,Lyonnais,4.581903,45.94859
+402,Vaux-en-Beaujolais,69 Rhône,Lyonnais,4.591759,46.05605000000001
+403,Yzeron,69 Rhône,Lyonnais,4.59067,45.70850000000001
+404,Ernée,53 Mayenne,Maine,-0.9314241999999999,48.29547
+405,Jublains,53 Mayenne,Maine,-0.4953863,48.25623
+406,Lassay-les-Châteaux,53 Mayenne,Maine,-0.4951066000000001,48.43657999999999
+407,Ménil,53 Mayenne,Maine,-0.6743699,47.77533
+408,Pré-en-Pail,53 Mayenne,Maine,-0.1983609,48.45971
+409,Sainte-Suzanne,53 Mayenne,Maine,-0.3515344,48.09755999999999
+410,Ballon,72 Sarthe,Maine,0.2338243,48.17672
+411,Malicorne-sur-Sarthe,72 Sarthe,Maine,-0.0887578,47.81436
+412,Montmirail,72 Sarthe,Maine,0.7914539,48.10386999999999
+413,Poncé-sur-le-Loir,72 Sarthe,Maine,0.6581832,47.76354
+414,Saint-Léonard-des-Bois,72 Sarthe,Maine,-0.077083,48.35238
+415,Solesmes,72 Sarthe,Maine,-0.302777,47.85149
+416,Anzème,23 Creuse,Marche,1.863621,46.26782
+417,Châtelus-le-Marcheix,23 Creuse,Marche,1.608066,45.9992
+418,Crozant,23 Creuse,Marche,1.621726,46.39189999999999
+419,Evaux-les-Bains,23 Creuse,Marche,2.485456,46.17659
+420,Saint-Georges-Nigremont,23 Creuse,Marche,2.2647,45.83705999999999
+421,Toulx-Sainte-Croix,23 Creuse,Marche,2.213876,46.28427
+422,Château-Chinon,58 Nièvre,Nivernais,3.945357,47.04934
+423,Donzy,58 Nièvre,Nivernais,3.126625,47.36994
+424,La Machine,58 Nièvre,Nivernais,3.465882,46.88991
+425,Lac des Settons,58 Nièvre,Nivernais,4.063265,47.18386000000001
+426,Lormes,58 Nièvre,Nivernais,3.814079,47.29026
+427,Saint-Vérain,58 Nièvre,Nivernais,3.055821,47.48058999999999
+428,Balleroy,14 Calvados,Normandie,-0.8386494,49.1808
+429,Beuvron-en-Auge,14 Calvados,Normandie,-0.0457464,49.18748
+430,Blangy-le-Château,14 Calvados,Normandie,0.2730553,49.24372
+431,Honfleur,14 Calvados,Normandie,0.2326025,49.41946999999999
+432,Orbec,14 Calvados,Normandie,0.4059664,49.02306000000001
+433,Thury-Harcourt,14 Calvados,Normandie,-0.476828,48.98549000000001
+434,Beaumont-le-Roger,27 Eure,Normandie,0.7777355,49.08134
+435,Brionne,27 Eure,Normandie,0.7205419,49.19532
+436,Conches-en-Ouche,27 Eure,Normandie,0.9417808,48.96212000000001
+437,Les Andelys,27 Eure,Normandie,1.419155,49.24682
+438,Lyons-la-Forêt,27 Eure,Normandie,1.476573,49.39869
+439,Verneuil-sur-Avre,27 Eure,Normandie,0.9291438,48.73603
+440,Auderville,50 Manche,Normandie,-1.932042,49.71145
+441,Condé-sur-Viré,50 Manche,Normandie,-1.037244,49.05162
+442,Mont-Saint-Michel,50 Manche,Normandie,-1.5106,48.6356
+443,Mortain,50 Manche,Normandie,-0.9385509,48.64668
+444,Saint-Sauveur-le-Vicomte,50 Manche,Normandie,-1.529562,49.3856
+445,Saint-Vaast-la-Hougue,50 Manche,Normandie,-1.268098,49.58762
+446,Bagnoles de l&apos;Orne,61 Orne,Normandie,-0.4123781,48.557
+447,Carrouges,61 Orne,Normandie,-0.1450393,48.5679
+448,Longny-au-perche,61 Orne,Normandie,0.7527648,48.53078
+449,Mortrée,61 Orne,Normandie,0.0748505,48.64023
+450,Putanges,61 Orne,Normandie,-0.2476331,48.76327
+451,Soligny-la-Trappe,61 Orne,Normandie,0.5356557204118562,48.61516093188406
+452,Arques-la-Bataille,76 Seine-Maritime,Normandie,1.126921,49.88364
+453,Caudebec-en-Caux,76 Seine-Maritime,Normandie,0.7245011,49.52622
+454,Etetrat,76 Seine-Maritime,Normandie,0.2098848,49.70762
+455,Gaillefontaine,76 Seine-Maritime,Normandie,1.615523,49.65403
+456,Jumièges,76 Seine-Maritime,Normandie,0.8195457999999999,49.43282
+457,Saint-Valéry-en-Caux,76 Seine-Maritime,Normandie,0.7115488,49.8684
+458,Anet,28 Eure-et-Loir,Orléanais,1.438069,48.85807
+459,Chateaudun,28 Eure-et-Loir,Orléanais,1.329393,48.06962
+460,Gallardon,28 Eure-et-Loir,Orléanais,1.687719,48.52542
+461,La Ferté Vidame,28 Eure-et-Loir,Orléanais,0.900477,48.61048999999999
+462,Maintenon,28 Eure-et-Loir,Orléanais,1.576872,48.58751
+463,Nogent-le-Rotrou,28 Eure-et-Loir,Orléanais,0.8199870132593134,48.31941826662973
+464,Chambord,41 Loir-et-Cher,Orléanais,1.518553,47.61297999999999
+465,Mondoubleau,41 Loir-et-Cher,Orléanais,0.8951499,47.98036999999999
+466,Romorantin-Lanthenay,41 Loir-et-Cher,Orléanais,1.744437,47.35944
+467,Saint-Aignan-sur-Cher,41 Loir-et-Cher,Orléanais,1.376116,47.26718
+468,Souvigny-en-Soulogne,41 Loir-et-Cher,Orléanais,2.163246,47.64365
+469,Trôo,41 Loir-et-Cher,Orléanais,0.7924177000000001,47.77751
+470,Beaugency,45 Loiret,Orléanais,1.634845,47.77761
+471,Briare,45 Loiret,Orléanais,2.738956,47.63853
+472,Châtillon-Coligny,45 Loiret,Orléanais,2.847648,47.82418
+473,Cléry-Saint-André,45 Loiret,Orléanais,1.755562,47.82075
+474,Malesherbes,45 Loiret,Orléanais,2.418051,48.29301
+475,Saint-Benoît-sur-Loire,45 Loiret,Orléanais,2.306024,47.81045999999999
+476,Argoulès,80 Somme,Picardie,1.835289,50.34180000000001
+477,Bray-sur-Somme,80 Somme,Picardie,2.716901,49.93974
+478,Crécy-en-Ponthieu,80 Somme,Picardie,1.881325,50.25195999999999
+479,Le Hourdel,80 Somme,Picardie,1.565761,50.21494000000001
+480,Naours,80 Somme,Picardie,2.275234,50.03476
+481,Pozières,80 Somme,Picardie,2.726,50.03913
+482,Argenton-les-Vallées,79 Deux-Sèvres,Poitou,-0.4495936,46.98493
+483,Cerizay,79 Deux-Sèvres,Poitou,-0.6688634,46.82164
+484,Coulon,79 Deux-Sèvres,Poitou,-0.586795,46.32182
+485,Exoudun,79 Deux-Sèvres,Poitou,-0.0815553,46.34443
+486,Oiron,79 Deux-Sèvres,Poitou,-0.0801881,46.95087000000001
+487,Parthenay,79 Deux-Sèvres,Poitou,-0.2482249,46.64536
+488,Maillezais,85 Vendée,Poitou,-0.7391383,46.37137
+489,Mervent,85 Vendée,Poitou,-0.7573067,46.52323
+490,Noirmoutier-en-l&apos;Île,85 Vendée,Poitou,-2.241533,47.00021
+491,Pouzauges,85 Vendée,Poitou,-0.8364041,46.78357
+492,Rocheservière,85 Vendée,Poitou,-1.51028,46.94011
+493,Talmont-Saint-Hilaire,85 Vendée,Poitou,-1.613592,46.46526999999999
+494,Angles-sur-l&apos;Anglin,86 Vienne,Poitou,0.8842748,46.69553
+495,Charroux,86 Vienne,Poitou,0.404965,46.14174
+496,Gençay,86 Vienne,Poitou,0.4023677,46.37361000000001
+497,Lussac-les-Châteaux,86 Vienne,Poitou,0.7264318,46.4046
+498,Morthemer,86 Vienne,Poitou,0.6126842,46.47403
+499,Chauvigny,86 Vienne,Poitou,0.6473064,46.56845000000001
+500,Saint-Benoît,86 Vienne,Poitou,0.3424425,46.55002
+501,Annot,04 Alpes-de-Haute-Provence,Provence,6.667554,43.96585
+502,Col d&apos;Allos,04 Alpes-de-Haute-Provence,Provence,6.59517,44.29684
+503,Col de la Cayolle,04 Alpes-de-Haute-Provence,Provence,6.745556,44.25611
+504,Forcalquier,04 Alpes-de-Haute-Provence,Provence,5.780948,43.95979
+505,Moustiers-Sainte-Marie,04 Alpes-de-Haute-Provence,Provence,6.221848000000001,43.84668
+506,Seyne-les-Alpes,04 Alpes-de-Haute-Provence,Provence,6.356124000000001,44.35206
+507,Arles,13 Bouches-du-Rhône,Provence,4.627804,43.67665
+508,Cassis,13 Bouches-du-Rhône,Provence,5.538633,43.216
+509,Les Baux-de-Provence,13 Bouches-du-Rhône,Provence,4.794811,43.74331
+510,Martigues,13 Bouches-du-Rhône,Provence,5.05483,43.40746
+511,Saintes-Maries-de-la-Mer,13 Bouches-du-Rhône,Provence,4.429159,43.45213
+512,Salon-de-Provence,13 Bouches-du-Rhône,Provence,5.086604,43.64051
+513,Collobrières,83 Var,Provence,6.336156556235377,43.24123577734544
+514,Fréjus,83 Var,Provence,6.735179000000001,43.43247
+515,La Garde-Freinet,83 Var,Provence,6.470601,43.3164
+516,La Sainte-Baume,83 Var,Provence,5.75,43.33333
+517,Plan-d&apos;Aups,83 Var,Provence,5.711473,43.32679
+518,Le Thoronet,83 Var,Provence,6.308089999999999,43.45011
+519,Les Cavaliers,83 Var,Provence,6.357141,43.72969
+520,Cerbère,66 Pyrénées-Orientales,Roussillon,3.165818,42.44091
+521,Lac des Bouillouses,66 Pyrénées-Orientales,Roussillon,1.9999352413136,42.56216059367542
+522,Porté-Puymorens,66 Pyrénées-Orientales,Roussillon,1.830345,42.54804
+523,Prats-de-Mollo-la-Preste,66 Pyrénées-Orientales,Roussillon,2.479801,42.40346
+524,Saint-Martin-du-Canigou,66 Pyrénées-Orientales,Roussillon,2.401389150543691,42.5283691086046
+525,Sournia,66 Pyrénées-Orientales,Roussillon,2.441823,42.72811
+526,Abbaye de Hautecombe,73 Savoie,Savoie,5.831432,45.7744
+527,Col de l&apos;Iseran,73 Savoie,Savoie,7.030654,45.41718
+528,Col du Glandon,73 Savoie,Savoie,6.175319,45.23972
+529,Col de la Croix de Fer,73 Savoie,Savoie,6.203465,45.22753000000001
+530,Conflans,73 Savoie,Savoie,6.397231,45.67102
+531,Mont Revard,73 Savoie,Savoie,5.983333000000001,45.66667000000001
+532,Saint-Germain-la-Chambotte,73 Savoie,Savoie,5.891445,45.77855
+533,Argentière,74 Haute-Savoie,Savoie,6.926842,45.98414
+534,Combloux,74 Haute-Savoie,Savoie,6.641612,45.89558999999999
+535,Menthon-Saint-Bernard,74 Haute-Savoie,Savoie,6.196128999999999,45.85965000000001
+536,Praz-de-Lys,74 Haute-Savoie,Savoie,6.593325,46.14897999999999
+537,Saint-Gingolph,74 Haute-Savoie,Savoie,6.801622,46.39145000000001
+538,Sixt-Fer-à-Cheval,74 Haute-Savoie,Savoie,6.775578000000001,46.05524
+539,Azay-le-Rideau,37 Indre-et-Loire,Touraine,0.4649067,47.26064
+540,Candes-Saint-Martin,37 Indre-et-Loire,Touraine,0.0744642,47.21134
+541,Château-Renault,37 Indre-et-Loire,Touraine,0.9126506,47.59213
+542,Chenonceaux,37 Indre-et-Loire,Touraine,1.067326,47.33159999999999
+543,Chinon,37 Indre-et-Loire,Touraine,0.2380809,47.16608000000001
+544,Loches,37 Indre-et-Loire,Touraine,0.9985767000000001,47.12924
