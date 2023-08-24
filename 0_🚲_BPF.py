@@ -13,6 +13,10 @@ st.set_page_config(
     page_icon="🚲",
 )
 
+with st.sidebar:
+    st.session_state['data_bpf'].to_csv('tmp'+str(k)+'.csv',sep=';')
+    st.download_button('Télécharger les données .csv',data=Path('tmp'+str(k)+'.csv').read_text(),file_name='list_BPF.csv')
+    
 st.title('Brevet des Provinces Francaise')
 
 st.warning("Une fois les modifications réalisées n'oublié pas de télécharger vos données mise à jour.", icon="⚠️")

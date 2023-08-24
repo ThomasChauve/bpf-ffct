@@ -4,6 +4,9 @@ import plotly.express as px
 
 st.set_page_config(page_title="Cartes des BPF",layout="wide", page_icon="🗺️")
 
+with st.sidebar:
+    st.session_state['data_bpf'].to_csv('tmp'+str(k)+'.csv',sep=';')
+    st.download_button('Télécharger les données .csv',data=Path('tmp'+str(k)+'.csv').read_text(),file_name='list_BPF.csv')
 
 st.title('Carte des BPF')
 
