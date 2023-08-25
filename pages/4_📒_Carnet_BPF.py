@@ -9,7 +9,7 @@ with st.sidebar:
     st.session_state['data_bpf'].to_csv('tmp_bpf.csv')
     st.download_button('Télécharger les données .csv',data=Path('tmp_bpf.csv').read_text(),file_name='list_BPF.csv')
 
-st.title('Carte BPF')
+st.title('Carnet BPF')
 
 sum_type = st.selectbox('Satistique pour ',np.unique(st.session_state['data_bpf'].Departement))
 
