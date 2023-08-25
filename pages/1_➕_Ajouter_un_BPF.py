@@ -21,6 +21,7 @@ id=list(st.session_state['data_bpf'].Ville).index(add_code)
 
 def photo_load(file):
     st.image(file)
+    st.write(type(file))
     photo = base64.b64encode(file.read())
     return photo
 
