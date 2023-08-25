@@ -16,5 +16,5 @@ sum_type = st.selectbox('Satistique pour ',np.unique(st.session_state['data_bpf'
 tmp_df= st.session_state['data_bpf'][st.session_state['data_bpf'].Departement==sum_type]
 tmp=np.array(tmp_df.Ticks)
 tmp_pc=np.sum(tmp)/len(tmp)
-st.progress(tmp_pc, text=pp+': '+str(np.int64(np.sum(tmp)))+'/'+str(len(tmp)))
+st.progress(tmp_pc, text=sum_type+': '+str(np.int64(np.sum(tmp)))+'/'+str(len(tmp)))
 
