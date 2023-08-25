@@ -24,7 +24,7 @@ def photo_load(file):
         photo = base64.b64encode(image.read())
     return photo
 
-uploaded_photo=st.file_uploader('Charger photo', accept_multiple_files=False, type='csv', label_visibility="visible")
+uploaded_photo=st.file_uploader('Charger photo', accept_multiple_files=False, label_visibility="visible")
 
 
 if st.button('Ajouter'):
