@@ -43,3 +43,4 @@ if len(tmp_df)>2:
                 st.write(tmp_df.loc[i, 'Date'])
                 if tmp_df.loc[i, 'Photo'] is not None:
                     st.image(tmp_df.loc[i, 'Photo'])
+                

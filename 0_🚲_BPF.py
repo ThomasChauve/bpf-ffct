@@ -39,6 +39,6 @@ with st.sidebar:
     st.session_state['data_bpf'].to_csv('tmp_bpf.csv')
     st.download_button('Télécharger les données .csv',data=Path('tmp_bpf.csv').read_text(),file_name='list_BPF.csv')
 
-uploaded_file=st.file_uploader('Charger fichier ".csv"',accept_multiple_files=False, type='csv', label_visibility="visible")
+uploaded_file=st.file_uploader('Charger fichier ".csv"',accept_multiple_files=False, type='csv,txt', label_visibility="visible")
 if uploaded_file is not None:
     st.session_state['data_bpf']=data_load(uploaded_file)
