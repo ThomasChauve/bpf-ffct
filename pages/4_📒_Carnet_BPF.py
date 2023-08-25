@@ -18,8 +18,6 @@ tmp=np.array(tmp_df.Ticks)
 tmp_pc=np.sum(tmp)/len(tmp)
 st.progress(tmp_pc, text=sum_type+': '+str(np.int64(np.sum(tmp)))+'/'+str(len(tmp)))
 
-st.dataframe(tmp_df)
-
 col1, col2, col3 = st.columns(3)
 
 with col1:
