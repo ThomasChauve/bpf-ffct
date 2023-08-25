@@ -7,6 +7,8 @@ import datetime
 from random import randrange
 from datetime import timedelta
 from pathlib import Path
+import base64
+import PIL
 
 
 st.set_page_config(
@@ -26,6 +28,7 @@ if 'data_bpf' not in st.session_state:
     df=pd.read_csv('BPF.csv')
     df['Date']=np.full(len(df),None)
     df['Ticks']=np.zeros(len(df))
+    df['Photo']=np.full(len(df),None)
     st.session_state['data_bpf']=df
 
 def data_load(file):
