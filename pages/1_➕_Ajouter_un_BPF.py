@@ -21,11 +21,8 @@ id=list(st.session_state['data_bpf'].Ville).index(add_code)
 
 def photo_load(file):
     st.image(file)
-    st.write(type(file))
     bytes_data = file.getvalue()
-    st.write(bytes_data)
-
-    photo = base64.b64encode(file)
+    photo = base64.b64encode(bytes_data)
     return photo
 
 uploaded_photo=st.file_uploader('Charger photo', accept_multiple_files=False, label_visibility="visible")
