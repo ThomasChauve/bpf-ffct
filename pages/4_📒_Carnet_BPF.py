@@ -24,7 +24,7 @@ col1, col2, col3 = st.columns(3)
 
 with col1:
     for i in [0,1]:
-        st.header(tmp_df.loc[i, 'Ville'])
+        st.write(tmp_df.loc[i, 'Ville'])
         if tmp_df.loc[id, 'Ticks']==1:
             st.write(tmp_df.loc[id, 'Date'])
             if tmp_df.Photo.loc[i] is not None:
@@ -33,14 +33,14 @@ with col1:
 if len(tmp_df)>2:
     with col2:
         for i in [2,3]:
-            st.header(tmp_df.loc[i, 'Ville'])
+            st.write(tmp_df.loc[i, 'Ville'])
             if tmp_df.loc[id, 'Ticks']==1:
                 st.write(tmp_df.loc[id, 'Date'])
                 if tmp_df.Photo.loc[i] is not None:
                     st.image(tmp_df.loc[id, 'Photo'])
     with col3:
         for i in [4,5]:
-            st.header(tmp_df.loc[i, 'Ville'])
+            st.write(tmp_df.loc[i, 'Ville'])
             if tmp_df.loc[id, 'Ticks']==1:
                 st.write(tmp_df.loc[id, 'Date'])
                 if tmp_df.Photo.loc[i] is not None:
