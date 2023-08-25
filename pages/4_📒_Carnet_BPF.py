@@ -18,3 +18,29 @@ tmp=np.array(tmp_df.Ticks)
 tmp_pc=np.sum(tmp)/len(tmp)
 st.progress(tmp_pc, text=sum_type+': '+str(np.int64(np.sum(tmp)))+'/'+str(len(tmp)))
 
+col1, col2, col3 = st.columns(3)
+
+with col1:
+    for i in [0,1]:
+        st.header(tmp_df.Name.loc[i])
+        if tmp_df.Ticks.loc[i]==1:
+            st.write(tmp_df.Date.loc[i])
+            if tmp_df.Photo.loc[i] is not None:
+                st.image(tmp_df.Photo.loc[i])
+
+if len(tmp_df)>2:
+    with col2:
+    for i in [2,3]:
+        st.header(tmp_df.Name.loc[i])
+        if tmp_df.Ticks.loc[i]==1:
+            st.write(tmp_df.Date.loc[i])
+            if tmp_df.Photo.loc[i] is not None:
+                st.image(tmp_df.Photo.loc[i])
+
+    with col3:
+    for i in [4,5]:
+        st.header(tmp_df.Name.loc[i])
+        if tmp_df.Ticks.loc[i]==1:
+            st.write(tmp_df.Date.loc[i])
+            if tmp_df.Photo.loc[i] is not None:
+                st.image(tmp_df.Photo.loc[i])
