@@ -20,8 +20,8 @@ f_date=st.date_input('Date',value=st.session_state['d_date'], label_visibility="
 id=list(st.session_state['data_bpf'].Ville).index(add_code)
 
 def photo_load(file):
-    with open(file, "rb") as image:
-        photo = base64.b64encode(image.read())
+    st.image(file)
+    photo = base64.b64encode(file)
     return photo
 
 uploaded_photo=st.file_uploader('Charger photo', accept_multiple_files=False, label_visibility="visible")
