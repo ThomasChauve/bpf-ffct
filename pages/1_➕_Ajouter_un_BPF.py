@@ -27,7 +27,6 @@ def photo_load(file):
 uploaded_photo=st.file_uploader('Charger photo', accept_multiple_files=False, type='csv', label_visibility="visible")
 
 
-
 if st.button('Ajouter'):
     st.session_state['data_bpf'].loc[id, 'Ticks'] = 1
     st.session_state['data_bpf'].loc[id, 'Date'] = f_date
